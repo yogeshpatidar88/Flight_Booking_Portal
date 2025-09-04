@@ -4,6 +4,14 @@ Welcome to the **Flight Booking System** project!
 This web application provides a simple and efficient way to search and book flights through a user-friendly interface. It integrates a **queue-based backend system** to handle booking requests fairly, ensuring reliability even under heavy load.
 
 ---
+## 👨‍💻 Project Team  
+
+Team name : Bankers
+| Name           | Roll Number |
+|----------------|-------------|
+| Yogesh Patidar | 220004055   |
+| Pratik Prajn   | 220005039   |
+| Roshan Saini   | 220004038   |
 
 ## Table of Contents
 
